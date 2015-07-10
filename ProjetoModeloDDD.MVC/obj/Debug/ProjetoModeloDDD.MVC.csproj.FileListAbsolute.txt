@@ -24,3 +24,29 @@ c:\users\felipe\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoMo
 c:\users\felipe\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojResolveAssemblyReference.cache
 c:\users\felipe\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
 c:\users\felipe\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll.config
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.MVC.pdb
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\System.Web.Razor.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\WebGrease.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.xml
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.xml
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\System.Web.Razor.xml
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.xml
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.xml
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.MVC\obj\Debug\ProjetoModeloDDD.MVC.pdb

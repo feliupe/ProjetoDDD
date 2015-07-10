@@ -3,3 +3,8 @@ c:\users\felipe\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoMo
 c:\users\felipe\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csprojResolveAssemblyReference.cache
 c:\users\felipe\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
 c:\users\felipe\documents\visual studio 2013\Projects\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\Leonel\Documents\GitHub\ProjetoDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb
