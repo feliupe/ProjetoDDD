@@ -3,7 +3,7 @@ namespace ProjetoModeloDDD.Domain.Entities
 {
     public class Cliente
     {
-        public int ClienteID { get; set; }
+        public int ClienteId { get; set; }
 
         public string Nome { get; set; }
 
